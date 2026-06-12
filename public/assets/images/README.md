@@ -2,6 +2,7 @@
 
 This folder structure contains all the static assets for the Zanzavat Bahuudeshiya Shaikshanik Sanstha website. To update images on the site, simply upload the new images into their corresponding directories using the naming and sizing guidelines below.
 
+
 ---
 
 ## Directory Reference & Sizing Guide
